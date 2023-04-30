@@ -2,7 +2,7 @@
 #ifndef INCLUDE_TPQUEUE_H_
 #define INCLUDE_TPQUEUE_H_
 #include <string>
-#inclede <iostream>
+#include <iostream>
 
 template<typename T>
 class TPQueue {
